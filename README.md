@@ -13,7 +13,7 @@ Main features:
 ## Launching AltAppSwitcher:
 Get the archive from the [release page](https://github.com/hdlx/AltAppSwitcher/releases/).
 
-**x86_64** and **ARM64** (AArch64) architectures are available. Please note that I was not able to test the ARM64 one myself.
+**x86_64** and **ARM64** (AArch64) architectures are available. The v0.109 ARM64 source build was tested on Windows 11 ARM64. When run as administrator, repeated Alt+Tab presses and Alt+Shift+Tab back-switching stayed in AltAppSwitcher; the popup displayed icons without window previews.
 
 **Run `AltAppSwitcher.exe` (preferably as an administator).**
 
